@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-vercel
+        nuxt-vercel!!!
       </h1>
       <div class="links">
         <a
