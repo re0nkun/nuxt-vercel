@@ -1,5 +1,9 @@
 <template>
   <div>
+    <v-app-bar>
+      <v-toolbar-title>NuxtVercle</v-toolbar-title>
+    </v-app-bar>
+
     {{ datas }}
   </div>
 </template>

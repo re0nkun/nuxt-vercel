@@ -13,5 +13,7 @@
     "nuxt": "^2.14.0",
     "xml2js": "^0.4.23"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
 }
