@@ -9,7 +9,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.0"
+    "@nuxtjs/axios": "^5.12.1",
+    "nuxt": "^2.14.0",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {}
 }
